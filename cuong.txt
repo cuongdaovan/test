@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+aaa
 cuong
-=======
 abcc cuonga
->>>>>>> document
+
